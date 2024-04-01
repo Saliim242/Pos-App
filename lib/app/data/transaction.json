@@ -1,0 +1,117 @@
+[
+    {
+        "tranId": 1,
+        "customerName": "Salim Abukar Ahmed",
+        "cashierName":"Xamda Ahmed",
+        "paymentMethod": "Cash",
+        "productType": "Mobile App",
+        "items": "1x40",
+        "transactionType": "Paid"
+        
+        
+      
+       
+    },
+    {
+        "tranId": 2,
+        "customerName": "Mustaf Abukar Abdullahi",
+        "cashierName":"Salim Dhalle",
+        "paymentMethod": "Bank",
+        "productType": "Mackbook pro",
+        "items": "2x40",
+        "transactionType": "Credit"
+       
+    },
+    {
+        "tranId": 3,
+        "customerName": "Abdirizak Abdullahi Hassan",
+        "cashierName":"Mustaf",
+        "paymentMethod": "Credit",
+        "productType": "Mackbook pro",
+        "items": "2x40",
+        "transactionType": "Fully Refund"
+       
+    },
+    {
+        "tranId": 4,
+        "customerName": "Aniza Zalim",
+        "cashierName":"Abdirizak",
+        "paymentMethod": "E-Wallet",
+        "productType": "Mackbook pro",
+        "items": "2x40",
+        "transactionType": "Part. Refund"
+       
+    },
+
+    {
+        "tranId": 5,
+        "customerName": "Qali Ibrahim",
+        "cashierName":"for loop",
+        "paymentMethod": "Credit",
+        "productType": "Mackbook pro",
+        "items": "3x40",
+        "transactionType": "Paid"
+       
+    },
+    {
+        "tranId": 6,
+        "customerName": "Mohamed Ali ",
+        "cashierName":"Salim Dhalle",
+        "paymentMethod": "Cash",
+        "productType": "Mackbook pro",
+        "items": "2x40",
+        "transactionType": "Cancelled"
+       
+    },
+
+    {
+        "tranId": 7,
+        "customerName": "Abdirahman Abukar",
+        "cashierName":"Ahmed Tigger",
+        "paymentMethod": "Bank",
+        "productType": "Air phone",
+        "items": "3x50",
+        "transactionType": "Paid"
+       
+    },
+    {
+        "tranId": 8,
+        "customerName": "Saxar Adan",
+        "cashierName":"Ahmed Tigger",
+        "paymentMethod": "Credit",
+        "productType": "Fashion Clothes",
+        "items": "3x4",
+        "transactionType": "Fully Refund"
+       
+    },
+    {
+        "tranId": 8,
+        "customerName": "Abdisamad Kiish",
+        "cashierName":"Baabale",
+        "paymentMethod": "Credit",
+        "productType": "Apple Wathch",
+        "items": "4x28",
+        "transactionType": "Part. Refund"
+       
+    },
+    {
+        "tranId": 9,
+        "customerName": "Ali Jabir",
+        "cashierName":"Ariij",
+        "paymentMethod": "Paid",
+        "productType": "Apple tablet",
+        "items": "4x28",
+        "transactionType": "Cancelled"
+       
+    },
+    {
+        "tranId": 10,
+        "customerName": "Fartun Ali",
+        "cashierName":"Salim Dhalle",
+        "paymentMethod": "E-Wallet",
+        "productType": "Iphone 15 Pro Max",
+        "items": "1x2300",
+        "transactionType": "Part. Refund"
+       
+    }
+]

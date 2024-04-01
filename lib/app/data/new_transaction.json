@@ -1,0 +1,324 @@
+[
+    
+      {
+        "transactionId": 1,
+        "transactionDate": "Monday, 3 February, 2024",
+        "transactionTime": "10:30 AM",
+        "customer": {
+          "customerId": 101,
+          "customerName": "John Doe",
+          "email": "john.doe@example.com",
+          "address": "123 Main Street, Cityville"
+          
+        },
+        "products": [
+          {"productId": 1, "productName": "iPhone 13 Pro", "quantity": 2, "price": 1200.00, "totalPerProduct": 2400.00},
+          {"productId": 2, "productName": "MacBook Air", "quantity": 1, "price": 1000.00, "totalPerProduct": 1000.00}
+        ],
+        "billing": {
+          "subtotal": 3400.00,
+          "discount": 200.00
+          
+        },
+        "cashierName" : "Qali ibrahim",
+        "paymentMethod": "Cash",
+        "status": "Paid",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Transaction completed successfully.",
+        "totalAmount": 3200.00
+      },
+      {
+        "transactionId": 2,
+        "transactionDate": "Tuesday, 18 February, 2024",
+        "transactionTime": "02:45 PM",
+        
+        "customer": {
+          "customerId": 202,
+          "customerName": "Emma White",
+          "email": "emma.white@example.com",
+          "address": "456 Oak Street, Hamletville"
+        },
+        "products": [
+          {"productId": 3, "productName": "Samsung 4K TV", "quantity": 1, "price": 800.00, "totalPerProduct": 800.00},
+          {"productId": 4, "productName": "Dyson Air Purifier", "quantity": 2, "price": 300.00, "totalPerProduct": 600.00}
+        ],
+        "billing": {
+          "subtotal": 1400.00,
+          "discount": 50.00
+          
+        },
+        "cashierName" : "Anas Abdi",
+        "paymentMethod": "PayPal",
+        "status": "Partially Refunded",
+        "refundAmount": 120.00,
+        "refundReason": "One item not as expected",
+        "notes": "Customer requested a partial refund.",
+        "totalAmount": 1230.00
+      },
+      {
+        "transactionId": 3,
+        "transactionDate": "Thursday, 5 March, 2024",
+        "transactionTime": "12:15 PM",
+        "customer": {
+          "customerId": 303,
+          "customerName": "Ava Black",
+          "email": "ava.black@example.com",
+          "address": "789 Pine Street, Villagetown"
+        },
+        "products": [
+          {"productId": 5, "productName": "Oak Dining Table", "quantity": 1, "price": 500.00, "totalPerProduct": 500.00},
+          {"productId": 6, "productName": "Keurig Coffee Maker", "quantity": 1, "price": 120.00, "totalPerProduct": 120.00}
+        ],
+        "billing": {
+          "subtotal": 620.00,
+          "discount": 0.00
+          
+        },
+        "cashierName" : "Mustaf Abukar",
+        "paymentMethod": "E-Wallet",
+        "status": "Fully Refunded",
+        "refundAmount": 620.00,
+        "refundReason": "Customer changed mind",
+        "notes": "Customer requested a full refund.",
+        "totalAmount": 620.00
+      },
+      {
+        "transactionId": 4,
+        "transactionDate": "Saturday, 21 March, 2024",
+        "transactionTime": "04:30 PM",
+        "customer": {
+          "customerId": 404,
+          "customerName": "Olivia Green",
+          "email": "olivia.green@example.com",
+          "address": "890 Elm Street, Cityville"
+        },
+        "products": [
+          {"productId": 7, "productName": "Whirlpool Washing Machine", "quantity": 1, "price": 600.00, "totalPerProduct": 600.00},
+          {"productId": 8, "productName": "Leather Jacket", "quantity": 2, "price": 150.00, "totalPerProduct": 300.00}
+        ],
+        "billing": {
+          "subtotal": 900.00,
+          "discount": 10.00
+        
+        },
+        "cashierName" : "Abdirizak Abdullahi",
+        "paymentMethod": "Bank",
+        "status": "Credit",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Transaction completed successfully.",
+        "totalAmount": 890.00
+      },
+      {
+        "transactionId": 5,
+        "transactionDate": "Monday, 6 April, 2024",
+        "transactionTime": "11:00 AM",
+        "customer": {
+          "customerId": 505,
+          "customerName": "Mia Brown",
+          "email": "mia.brown@example.com",
+          "address": "123 Cedar Street, Villageland"
+        },
+        "products": [
+          {"productId": 9, "productName": "PlayStation 5", "quantity": 1, "price": 500.00, "totalPerProduct": 500.00}
+          
+        ],
+        "billing": {
+          "subtotal": 500.00,
+          "discount": 0.00
+        
+        }, 
+        "cashierName" : "Abdiraxman Mohamud",
+        "paymentMethod": "Credit Card",
+        "status": "Partially Refunded",
+        "refundAmount": 50.00,
+        "refundReason": "Customer dissatisfaction",
+        "notes": "Customer requested a partial refund.",
+        "totalAmount": 450.00
+      },
+      {
+        "transactionId": 6,
+        "transactionDate": "Wednesday, 22 April, 2024",
+        "transactionTime": "01:45 PM",
+        "customer": {
+          "customerId": 606,
+          "customerName": "Liam White",
+          "email": "liam.white@example.com",
+          "address": "567 Oak Street, Hamletville"
+        },
+        "products": [
+          {"productId": 10, "productName": "4K Gaming Monitor", "quantity": 2, "price": 200.00, "totalPerProduct": 400.00},
+          {"productId": 11, "productName": "Desk Chair", "quantity": 1, "price": 95.00, "totalPerProduct": 95.00},
+          {"productId": 12, "productName": "HP Pavilion 15-DK1056WM", "quantity": 2, "price": 1099.00, "totalPerProduct": 2198.00}
+        ],
+        "billing": {
+          "subtotal": 2198.00,
+          "discount": 0.00 
+        },
+        "cashierName" : "Abdiraxman Abdullahi",
+        "paymentMethod": "Cash",
+        "status": "Cancelled",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Customer canceled the order before completion.",
+        "totalAmount": 2198.00
+      },
+      {
+        "transactionId": 7,
+        "transactionDate": "Friday, 3 May, 2024",
+        "transactionTime": "03:30 PM",
+        "customer": {
+          "customerId": 707,
+          "customerName": "Lucas White",
+          "email": "lucas.white@example.com",
+          "address": "567 Oak Street, Hamletville"
+        },
+        "products": [
+          {"productId": 12, "productName": "Ipad", "quantity": 3, "price": 250.00, "totalPerProduct": 750.00},
+          {"productId": 13, "productName": "Iphone 15 pro max", "quantity": 2, "price": 1200.00, "totalPerProduct": 2400.00},
+          {"productId": 14, "productName": "Men's shoes", "quantity": 4, "price": 25.00, "totalPerProduct": 100.00},
+          {"productId": 15, "productName": "Hp Monitor", "quantity": 2, "price": 400.00, "totalPerProduct": 800.00}
+        ],
+        "billing": {
+          "subtotal": 4050.00,
+          "discount": 300.00 
+        },
+        "cashierName" : "Abdisamad Kiish",
+        "paymentMethod": "Cash",
+        "status": "Paid",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Transaction completed successfully.",
+        "totalAmount": 3750.00
+      },
+      {
+        "transactionId": 8,
+        "transactionDate": "Friday, 17 May, 2024",
+        "transactionTime": "05:45 PM",
+        "customer": {
+          "customerId": 808,
+          "customerName": "Mia Brown",
+          "email": "mia.brown@example.com",
+          "address": "123 Pine Street, Cityville"
+        },
+        "products": [
+          {"productId": 13, "productName": "Smart TV", "quantity": 2, "price": 700.00, "totalPerProduct": 1400.00},
+          {"productId": 14, "productName": "Office Chair", "quantity": 1, "price": 120.00, "totalPerProduct": 120.00}
+        ],
+        "billing": {
+          "subtotal": 1520.00,
+          "discount": 50.00 
+        },
+        "cashierName" : "Ahmed Abdiqadir",
+        "paymentMethod": "E-Wallet",
+        "status": "Credit",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Transaction completed successfully.",
+        "totalAmount": 1470.00
+      },
+      {
+        "transactionId": 9,
+        "transactionDate": "Sunday, 2 June, 2024",
+        "transactionTime": "08:30 AM",
+        "customer": {
+          "customerId": 909,
+          "customerName": "Oliver White",
+          "email": "oliver.white@example.com",
+          "address": "456 Cedar Street, Villageland"
+        },
+        "products": [
+          {"productId": 15, "productName": "Laptop", "quantity": 1, "price": 1000.00, "totalPerProduct": 1000.00}
+        ],
+        "billing": {
+          "subtotal": 1000.00,
+          "discount": 0.00 
+        },
+        "cashierName" : "Saxar Adan",
+        "paymentMethod": "Bank",
+        "status": "Fully Refunded",
+        "refundAmount": 1000.00,
+        "refundReason": "Customer changed mind",
+        "notes": "Customer requested a full refund.",
+        "totalAmount": 1000.00
+      },
+      {
+        "transactionId": 10,
+        "transactionDate": "Thursday, 20 June, 2024",
+        "transactionTime": "12:00 PM",
+        "customer": {
+          "customerId": 1010,
+          "customerName": "Noah Black",
+          "email": "noah.black@example.com",
+          "address": "789 Elm Street, Villagetown"
+        },
+        "products": [
+          {"productId": 16, "productName": "Washing Machine", "quantity": 2, "price": 400.00, "totalPerProduct": 800.00},
+          {"productId": 17, "productName": "Men's Jacket", "quantity": 1, "price": 150.00, "totalPerProduct": 150.00}
+        ],
+        "billing": {
+          "subtotal": 950.00,
+          "discount": 50.00 
+        },
+        "cashierName" : "Salim Abukar",
+        "paymentMethod": "E-Wallet",
+        "status": "Partially Refunded",
+        "refundAmount": 100.00,
+        "refundReason": "Item not as expected",
+        "notes": "Customer requested a partial refund due to product issues.",
+        "totalAmount": 800.00
+      },
+      {
+        "transactionId": 11,
+        "transactionDate": "Tuesday, 5 July, 2024",
+        "transactionTime": "09:15 AM",
+        "customer": {
+          "customerId": 1111,
+          "customerName": "Sophia Red",
+          "email": "sophia.red@example.com",
+          "address": "345 Maple Street, Cityville"
+        },
+        "products": [
+          {"productId": 18, "productName": "Smart Watch", "quantity": 1, "price": 120.00, "totalPerProduct": 120.00}
+        ],
+        "billing": {
+          "subtotal": 120.00,
+          "discount": 0.00 
+        },
+        "cashierName" : "Ariij Salim",
+        "paymentMethod": "Cash",
+        "status": "Cancelled",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Customer canceled the order before completion.",
+        "totalAmount": 120.00
+      },
+      {
+        "transactionId": 12,
+        "transactionDate": "Friday, 20 July, 2024",
+        "transactionTime": "03:00 PM",
+        "customer": {
+          "customerId": 1212,
+          "customerName": "Isaac Yellow",
+          "email": "isaac.yellow@example.com",
+          "address": "678 Pine Street, Villagetown"
+        },
+        "products": [
+          {"productId": 19, "productName": "Wireless Earbuds", "quantity": 1, "price": 50.00, "totalPerProduct": 50.00},
+          {"productId": 20, "productName": "Desk Lamp", "quantity": 2, "price": 30.00, "totalPerProduct": 60.00}
+        ],
+        "billing": {
+          "subtotal": 110.00,
+          "discount": 10.00 
+        },
+        "cashierName" : "Mohamed Ali",
+        "paymentMethod": "Bank",
+        "status": "Credit",
+        "refundAmount": 0.00,
+        "refundReason": "",
+        "notes": "Transaction completed successfully.",
+        "totalAmount": 100.00
+      }
+    
+  ]

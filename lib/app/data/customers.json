@@ -1,0 +1,169 @@
+[
+    {
+ 
+                        "customerName": "Salim Abukar Ahmed",
+                        "customerPhone": "0613264540",
+                        "customerEmail":"salim7442@gmail.com",
+                        "customerAddress":"D.Karaan",
+                        "customerStatus":true,
+                        "customerGender":"Male",
+                        "credit": 120 ,
+                        "suttlementDays": "2",
+                        "gaurantorName" : "Abukar Ahmed Mohamed",
+                        "gaurantorPhone" : "0615591634"
+
+                      
+                    },
+                    {
+                        "customerName": "Mustad Abukar Abdullahi",
+                        "customerPhone": "0619355938",
+                        "customerEmail":"mustaf4a@gmail.com",
+                        "customerAddress":"D.howlwadaag",
+                        "customerStatus":true,
+                        "customerGender":"Male",
+                        "credit": 40 ,
+                        "suttlementDays": "2",
+                        "gaurantorName" : "Abubakar Abdullahi",
+                        "gaurantorPhone" : "0615456596"
+                      
+                    },
+                    {
+                        "customerName": "Sara Abdullahi Hassan",
+                        "customerPhone": "0617586520",
+                        "customerEmail":"sara@gmail.com",
+                        "customerAddress":"Taleex",
+                        "customerStatus":true,
+                        "customerGender":"Female"
+                        ,
+                        "credit": 6585 ,
+                        "suttlementDays": "2",
+                        "gaurantorName" : "",
+                        "gaurantorPhone" : ""
+                      
+                    },
+                    {
+                        "customerName": "Abdirizak Abdullhi Hassan",
+                        "customerPhone": "0616505080",
+                        "customerEmail":"abiga@gmail.com",
+                        "customerAddress":"D.Madiino",
+                        "customerStatus":true,
+                        "customerGender":"Male"
+                        ,
+                        "credit": 50 ,
+                        "suttlementDays": "2",
+                        "gaurantorName" : "Abdullahi Hassan",
+                        "gaurantorPhone" : "0619875455"
+                      
+                    },
+                    {
+                        "customerName": "Yasac Da'uud Mohamed",
+                        "customerPhone": "0614568952",
+                        "customerEmail":"yasac@gmail.com",
+                        "customerAddress":"Warshadaha",
+                        "customerStatus":false,
+                        "customerGender":"Male"
+                        ,
+                        "credit": 650 ,
+                        "suttlementDays": "3",
+                        "gaurantorName" : "",
+                        "gaurantorPhone" : ""
+                      
+                    },
+                    {
+                        "customerName": "Aisha Ali Hallane",
+                        "customerPhone": "0615256563",
+                        "customerEmail":"aisha@gmail.com",
+                        "customerAddress":"D.Madiino",
+                        "customerStatus":false,
+                        "customerGender":"Female",
+                        "credit": 5 ,
+                        "suttlementDays": "2",
+                        "gaurantorName" : "Abukar Ahmed Mohamed",
+                        "gaurantorPhone" : "0615591634"
+                      
+                    },
+                    {
+                        "customerName": "Qali Ibrahim Mohamuud",
+                        "customerPhone": "0618012269",
+                        "customerEmail":"qali@gmail.com",
+                        "customerAddress":"D.Karaan",
+                        "customerStatus":true,
+                        "customerGender":"Female",
+                        "credit": 0 ,
+                        "suttlementDays": "0",
+                        "gaurantorName" : "",
+                        "gaurantorPhone" : ""
+                      
+                    },
+                    {
+                        "customerName": "Anisa Salim Abukar Ahmed",
+                        "customerPhone": "0613264540",
+                        "customerEmail":"anisa@gmail.com",
+                        "customerAddress":"D.Karaan",
+                        "customerStatus":false,
+                        "customerGender":"Female",
+                        "credit": 369 ,
+                        "suttlementDays": "25",
+                        "gaurantorName" : "Salim Abukar Ahmed",
+                        "gaurantorPhone" : "0613264540"
+                      
+                    },
+                    {
+                        "customerName": "Ahlam Salim Abukar Ahmed",
+                        "customerPhone": "0613264540",
+                        "customerEmail":"ahlam@gmail.com",
+                        "customerAddress":"D.Karaan",
+                        "customerStatus":true,
+                        "customerGender":"Female",
+                        "credit": 0 ,
+                        "suttlementDays": "0",
+                        "gaurantorName" : "",
+                        "gaurantorPhone" : ""
+                      
+                    },
+                    {
+                        "customerName": "Abiraxman Abukar Mohamed",
+                        "customerPhone": "061878796",
+                        "customerEmail":"abdi@gmail.com",
+                        "customerAddress":"Ceel Qalaq",
+                        "customerStatus":true,
+                        "customerGender":"Male",
+                        "credit": 0 ,
+                        "suttlementDays": "0",
+                        "gaurantorName" : "",
+                        "gaurantorPhone" : ""
+                      
+                    },
+                    {
+                        "customerName": "Ariij Salim Abukar ",
+                        "customerPhone": "0617858565",
+                        "customerEmail":"ariij@gmail.com",
+                        "customerAddress":"Ceel Qalaq",
+                        "customerStatus":true,
+                        "customerGender":"Female",
+                        "credit": 3000 ,
+                        "suttlementDays": "56",
+                        "gaurantorName" : "Saliim Abukar ",
+                        "gaurantorPhone" : "0617505939"
+                      
+                    },
+
+                    {
+                        "customerName": "Anisa Salim Abukar ",
+                        "customerPhone": "0617858565",
+                        "customerEmail":"ariij@gmail.com",
+                        "customerAddress":"Ceel Qalaq",
+                        "customerStatus":true,
+                        "customerGender":"Female",
+                        "credit": 265 ,
+                        "suttlementDays": "36",
+                        "gaurantorName" : "Qali Ibrahim",
+                        "gaurantorPhone" : "0618012269"
+                      
+                    }
+                
+              
+             
+    
+     
+]

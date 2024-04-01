@@ -1,0 +1,33 @@
+[
+    {
+        "title": "EVC Plus",
+        "paymentMethodType": "EVC Plus",
+        "iconPath": "assets/images/wallet-3d.png",
+        "isPaymentShow": false
+    },
+    {
+        "title": "Cash",
+        "paymentMethodType": "Cash",
+        "iconPath": "assets/images/wallet-3d.png",
+        "isPaymentShow": true
+    },
+    {
+        "title": "E-Wallet",
+        "paymentMethodType": "E-Wallet",
+        "iconPath": "assets/images/E-wallet.png"  , 
+        "isPaymentShow": true
+    },
+    {
+        "title": "Credit",
+        "paymentMethodType": "Credit",
+        "iconPath":         "assets/images/wallet-3d.png",
+        "isPaymentShow": true
+    },
+    {
+        "title": "Bank",
+        "paymentMethodType": "Bank",
+        "iconPath": "assets/images/wallet-3d.png",
+        "isPaymentShow": true
+    }
+]
+
